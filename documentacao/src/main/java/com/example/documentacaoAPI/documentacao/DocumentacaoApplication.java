@@ -1,13 +1,13 @@
-package com.projetoAP.projetoapdescomplica;
+package com.example.documentacaoAPI.documentacao;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProjetoapdescomplicaApplication {
+public class DocumentacaoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProjetoapdescomplicaApplication.class, args);
+		SpringApplication.run(DocumentacaoApplication.class, args);
 	}
 
 }
